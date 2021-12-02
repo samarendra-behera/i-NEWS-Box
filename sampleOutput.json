@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Tom McKay",
+            "title": "Roughly One-Third of Bitcoin Is Controlled by a Small Cabal of Whales, According to New Study",
+            "description": "For all the talk of democratizing finance, the vast majority of Bitcoin continues to be owned by a relative handful of investors.Read more...",
+            "url": "https://gizmodo.com/roughly-one-third-of-bitcoin-is-controlled-by-a-small-c-1847938047",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c5ef49718a8e4104ec3c1c55507c8244.jpg",
+            "publishedAt": "2021-10-26T18:10:00Z",
+            "content": "For all the talk of democratizing finance, the vast majority of Bitcoin continues to be owned by a relative handful of investors.\r\nAs flagged by Bloomberg, newly released data by the National Bureau … [+4274 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Entrepreneur Staff",
+            "title": "AMC Begins Accepting Crypto",
+            "description": "Bitcoin, Ethereum, Bitcoin Cash and Litecoin are accepted.",
+            "url": "https://www.entrepreneur.com/article/396981",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1636738243-GettyImages-1307671673.jpg",
+            "publishedAt": "2021-11-12T17:31:23Z",
+            "content": "In keeping with a previous announcement, AMC theaters now accept cryptocurrencies as payment for online purchases. \r\nBitcoin, Ethereum, Bitcoin Cash and Litecoin are accepted. \r\nPreviously, the compa… [+1036 chars]"
+        }
+    ]
+}
